@@ -34,9 +34,13 @@ Spanish Flu:
 
 ![](/Images/image.png)
 
+(Source: Google Images)
+
 Ebola:
 
 ![](/Images/ebola.png)
+
+(Source: Google Images)
 
 All the epidemic curves represent a bell curve. This is true for almost all the epidemics that we have encountered in the past.
 
@@ -170,6 +174,8 @@ Hence, by following the **WHO** Guidleines, we are essentially bringing down the
 For reference, this is how the value of **R0** effects the shape of the curve
 
 ![](/Images/effectofR0.png)
+
+(Source: Google Images)
 
 It is evident that as **R0** decreases, the curve flattens. 
 
