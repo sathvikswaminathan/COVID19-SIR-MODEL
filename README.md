@@ -22,7 +22,7 @@ If we had to represent the number of infected individuals on Day N, it'd be 2<su
 
 Let's graph this!
 
-![](desmos-graph.png)
+![](/Images/desmos-graph.png)
 
 Clearly this is wrong because the curve only increases exponentially and ends up leaving the entire population infected.
 
@@ -32,11 +32,11 @@ Let's have a look at a few graphs related to different epidemics in the past:
 
 Spanish Flu:
 
-![](image.png)
+![](/Images/image.png)
 
 Ebola:
 
-![](ebola.png)
+![](/Images/ebola.png)
 
 All the epidemic curves represent a bell curve. This is true for almost all the epidemics that we have encountered in the past.
 
@@ -62,7 +62,7 @@ Those who can no longer spread the disease. These are people who have either rec
 
 These three quantities are goverend by the below given set of differential equations: 
 
-![](sir_differential.jpg)
+![](/Images/sir_differential.jpg)
 
 Let's understand them!
 
@@ -143,7 +143,7 @@ Unfortunately India hasn't been doing a lot of testing and we have very little /
 
 This is the graph I obtained using India's data:
 
-![](IndiaCOVID.jpg)
+![](/Images/IndiaCOVID.jpg)
 
 For the reasons mentioned above, this graph is not reliable.
 
@@ -151,7 +151,7 @@ Iceland on the other hand is one of the few countries which has been actively te
 
 This is the graph I obtained using Iceland's data:
 
-![](IcelandCOVID.png)
+![](/Images/IcelandCOVID.png)
 
 You can see that it has done a fairly good job on predicting the number of cases on untrained data.
 
@@ -169,7 +169,7 @@ Hence, by following the **WHO** Guidleines, we are essentially bringing down the
 
 For reference, this is how the value of **R0** effects the shape of the curve
 
-![](effectofR0.png)
+![](/Images/effectofR0.png)
 
 It is evident that as **R0** decreases, the curve flattens. 
 
