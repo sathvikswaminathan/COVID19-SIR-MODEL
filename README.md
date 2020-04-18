@@ -68,6 +68,8 @@ These three quantities are goverend by the below given set of differential equat
 
 ![](/Images/sir_differential.jpg)
 
+(Source: Google Images)
+
 Let's understand them!
 
 In any chosen province, people belong to one of the 3 categories.
