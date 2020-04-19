@@ -149,7 +149,7 @@ Unfortunately India hasn't been doing a lot of testing and we have very little /
 
 This is the graph I obtained using India's data:
 
-![](/Images/IndiaCOVID.jpg)
+![](/Images/IndiaCOVID.png)
 
 For the reasons mentioned above, this graph is not reliable.
 
